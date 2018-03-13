@@ -1,7 +1,7 @@
-// Frank Chen
+// Team CrazyCats -- Frank Chen, Tania Cao, Xinyi Huang
 // APCS2 pd2
-// HW18 -- So So Quick
-// 2018-03-12
+// L01 -- What Does the Data Say?
+// 2018-03-14
   
 /*****************************************************
  * class QuickSort
