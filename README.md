@@ -2,7 +2,7 @@
 Created by: CrazyCats (Tania Cao, Frank Chen, Xinyi Huang)
 
 ### Hypothesis
-The execution-time of the best case will be O(n) and the worst case will be O(n^2).
+The execution-time of the best case will be O(nlogn), where the array is already sorted. The execution-time of the worst case will be O(n^2), where the array is __________. The execution-time of the average or most likely case is o(n^2logn), where the array is neither the best case or worst case.
 
 ### Background
 The array consists of at least one integer. Each array generated will have integers placed in random order.
@@ -19,4 +19,4 @@ The algorithm we've developed would execute the following...
 ![]()
 
 ### Conclusion
-Our hypothesis is ______. According to the data we've gathered, the execution-time 
+Our hypothesis is ______. According to the data we've gathered, the execution-time . Due to the fact that the pivot starts out in the middle of the array, the execution time 
