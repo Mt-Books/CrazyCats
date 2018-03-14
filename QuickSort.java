@@ -93,7 +93,7 @@ public class QuickSort
   
   public static void qsort ( int[] arr, int left, int right ) {
       if ( left < right ) {
-	  int pivot = partition ( arr, left, right, ( left + right ) / 2 );
+	  int pivot = partition ( arr, left, right, left );
 	      qsort ( arr, left, pivot - 1 );
 	      qsort ( arr, pivot + 1, right );
 	  }
