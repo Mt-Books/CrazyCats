@@ -1,4 +1,4 @@
-public class QuickSortDriver {
+public class QuickSortTester {
 
 	// Main Method
     public static void main ( String[] args ) {
