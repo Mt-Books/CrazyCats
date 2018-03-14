@@ -2,9 +2,9 @@ public class QuickSortDriver {
 
     public static void main ( String[] args ) {
 
-	QuickSort.buildArray( 10, 50 );
+	int[] array = { 15, 60, 23, 44, 58, 91, 2, 3 };
 	
-	QuickSort.qsort( retArr );
+	QuickSort.qsort( array );
 
     }
 
