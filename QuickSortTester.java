@@ -17,7 +17,7 @@ public class QuickSortTester {
 		    QuickSort.qsort( array );
 		    long elapsedTime = System.nanoTime() - startTime;
 		 
-		    System.out.println( i  + "," + elapsedTime + ",");
+		    System.out.println( i  + ", " + elapsedTime );
 		    totalTime += elapsedTime;
 		}
 
