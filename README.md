@@ -17,7 +17,7 @@ The algorithm we've developed would execute the following...
 6. Repeat steps 1-5 with the worst case array
 
 ### Results
-![Data]()
+![Data](QuickSort.JPG)
 
 ### Conclusion
 Our hypothesis is correct. The best case occurs when the pivot goes back to the middle and when the implementation takes the least number of swaps. The worst case occurs when the pivot goes to one of the ends of the array, meaning that the worst case is a sorted or reversely sorted array.
